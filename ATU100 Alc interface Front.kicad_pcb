@@ -124,8 +124,8 @@
 	)
 	(net 0 "")
 	(gr_rect
-		(start 136.25 77.25)
-		(end 140.25 81.25)
+		(start 137.875 76.15)
+		(end 144.675 80.15)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -158,8 +158,8 @@
 		(uuid "8d11d7bc-c0e9-43aa-be73-ea9d240bfeb8")
 	)
 	(gr_rect
-		(start 152.25 77.25)
-		(end 156.25 81.25)
+		(start 152.25 76.15)
+		(end 156.25 80.15)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -203,8 +203,8 @@
 		(uuid "f7b774b2-65f3-4363-9908-e245dec5a6a6")
 	)
 	(gr_rect
-		(start 125.25 77.25)
-		(end 129.25 81.25)
+		(start 125.25 76.15)
+		(end 129.25 80.15)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -214,8 +214,8 @@
 		(uuid "ffd02287-73e3-411d-b6b8-9951fb9d0e9b")
 	)
 	(gr_rect
-		(start 136.25 77.25)
-		(end 140.25 81.25)
+		(start 137.875 76.15)
+		(end 144.675 80.15)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -237,8 +237,8 @@
 		(uuid "4df5fd68-4624-419c-8f7d-3280c3d749ec")
 	)
 	(gr_rect
-		(start 152.25 77.25)
-		(end 156.25 81.25)
+		(start 152.25 76.15)
+		(end 156.25 80.15)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -259,8 +259,8 @@
 		(uuid "8491f719-8b6f-4040-bca7-584e9c335902")
 	)
 	(gr_rect
-		(start 125.25 77.25)
-		(end 129.25 81.25)
+		(start 125.25 76.15)
+		(end 129.25 80.15)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -395,8 +395,8 @@
 		(uuid "1334de21-2931-4d48-8cdf-7fb1af844dd6")
 	)
 	(gr_rect
-		(start 152.25 77.25)
-		(end 156.25 81.25)
+		(start 152.25 76.15)
+		(end 156.25 80.15)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -406,8 +406,8 @@
 		(uuid "339ad855-0a5f-4348-aef7-8a30d5f956a9")
 	)
 	(gr_rect
-		(start 136.25 77.25)
-		(end 140.25 81.25)
+		(start 137.875 76.15)
+		(end 144.675 80.15)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -439,8 +439,8 @@
 		(uuid "686bd22d-0b3b-4a59-b6a8-bbd36e55c134")
 	)
 	(gr_rect
-		(start 125.25 77.25)
-		(end 129.25 81.25)
+		(start 125.25 76.15)
+		(end 129.25 80.15)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -601,8 +601,8 @@
 		(uuid "a4f5a757-a2d9-4fa6-a888-e3e416fcfec4")
 	)
 	(gr_circle
-		(center 146.875 81.25)
-		(end 149.875 81.25)
+		(center 133.625 81.25)
+		(end 136.625 81.25)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -668,8 +668,8 @@
 		(uuid "e7ede015-f38a-4ef4-a69d-0e8bfc4e9509")
 	)
 	(gr_circle
-		(center 133.625 83.45)
-		(end 135.125 83.45)
+		(center 146.875 83.45)
+		(end 148.375 83.45)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -726,7 +726,7 @@
 		)
 	)
 	(gr_text "ALC Adjust"
-		(at 128.75 81.25 0)
+		(at 143.175 81.1 0)
 		(layer "F.SilkS")
 		(uuid "28cdd3ea-b39f-43ff-a408-0a698f44fd9b")
 		(effects
@@ -762,7 +762,7 @@
 		)
 	)
 	(gr_text "T = ALC\nR = TX\nS = GND"
-		(at 150.5 82.25 0)
+		(at 123.025 81.45 0)
 		(layer "F.SilkS")
 		(uuid "47d2f1e9-02f0-4947-bf41-4d0982da53c0")
 		(effects
