@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4-1.fc40*%
+%TF.CreationDate,2024-08-27T20:57:55+02:00*%
+%TF.ProjectId,ATU100 Alc interface,41545531-3030-4204-916c-6320696e7465,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4-1.fc40) date 2024-08-27 20:57:55*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,1.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J2*%
+X98500000Y-128750000D03*
+X98500000Y-131250000D03*
+X103500000Y-123750000D03*
+X108500000Y-128750000D03*
+X108500000Y-131250000D03*
+M02*

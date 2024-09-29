@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: 3.5 mm, Stereo, Right Angle, Through Hole, 3 Conductors, 0 Internal Switches, Audio Jack Connector
+3DX_CUI_DEVICES_Model Number: SJ1-3523N
